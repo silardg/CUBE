@@ -22,8 +22,3 @@ Altium Designer was used to developed it.
 
 Contains all the design files and exported .stl files for printing the enclosure. 
 
-## Links
-
- - [View more of embdd](https://embdd.dev/)
- - [View our detailed procedure to convert an idea into a product](https://embdd.dev/)
-
