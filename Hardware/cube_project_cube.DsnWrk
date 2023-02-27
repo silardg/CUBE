@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=CUBE\CUBE.PrjMbd
+[Project2]
+ProjectPath=CUBE_BATTERY\CUBE_BATTERY\CUBE_BATTERY.PrjPcb
+[Project3]
+ProjectPath=CUBE_MCU\CUBE_MCU\CUBE_MCU.PrjPcb
+[Project4]
+ProjectPath=CUBE_SENSOR\CUBE_SENSOR\CUBE_SENSOR.PrjPcb
+[Project5]
+ProjectPath=CUBE_PANEL\CUBE_PANEL.PrjPcb

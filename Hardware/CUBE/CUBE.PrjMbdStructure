@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=CubeConnections.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\CUBE_BATTERY\CUBE_BATTERY\CUBE_BATTERY.PrjPcb
+Record=SubProject|SourceDocument=CubeConnections.MbsDoc|ProjectPath=..\CUBE_BATTERY\CUBE_BATTERY\CUBE_BATTERY.PrjPcb
+Record=DiagramHierarchy|SourceDocument=CubeConnections.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\CUBE_MCU\CUBE_MCU\CUBE_MCU.PrjPcb
+Record=SubProject|SourceDocument=CubeConnections.MbsDoc|ProjectPath=..\CUBE_MCU\CUBE_MCU\CUBE_MCU.PrjPcb
+Record=DiagramHierarchy|SourceDocument=CubeConnections.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\CUBE_SENSOR\CUBE_SENSOR\CUBE_SENSOR.PrjPcb
+Record=SubProject|SourceDocument=CubeConnections.MbsDoc|ProjectPath=..\CUBE_SENSOR\CUBE_SENSOR\CUBE_SENSOR.PrjPcb
